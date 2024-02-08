@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "baseUrl": "https://jedepensetrop.fr/",
+        "paths": {
+            "@/*": ["resources/js/*"]
+        }
+    },
+    "exclude": ["node_modules", "public"],
+}

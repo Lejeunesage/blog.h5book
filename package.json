@@ -1,0 +1,50 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@gradio/client": "^0.8.1",
+        "@inertiajs/vue3": "^1.0.0",
+        "@mdi/js": "^7.0.96",
+        "@tailwindcss/forms": "^0.5.3",
+        "@vitejs/plugin-vue": "^4.0.0",
+        "autoprefixer": "^10.4.12",
+        "axios": "^1.1.2",
+        "chart.js": "^3.9.1",
+        "laravel-vite-plugin": "^0.7.5",
+        "pinia": "^2.0.17",
+        "postcss": "^8.4.18",
+        "sass": "^1.62.1",
+        "tailwindcss": "^3.2.1",
+        "vite": "^4.0.0",
+        "vue": "^3.2.41"
+    },
+    "dependencies": {
+        "@ckeditor/ckeditor5-build-classic": "^40.1.0",
+        "@inertiajs/vue3": "^1.0.7",
+        "@tinymce/tinymce-vue": "^4.0.7",
+        "@tiptap/pm": "^2.1.12",
+        "@tiptap/starter-kit": "^2.1.12",
+        "@tiptap/vue-3": "^2.1.12",
+        "@vuepic/vue-datepicker": "^5.2.0",
+        "date-fns": "^2.30.0",
+        "date-fns-tz": "^2.0.0",
+        "filepond": "^4.30.4",
+        "filepond-plugin-file-poster": "^2.5.1",
+        "filepond-plugin-file-validate-type": "^1.2.8",
+        "filepond-plugin-image-preview": "^4.6.11",
+        "moment": "^2.29.4",
+        "numeral": "^2.0.6",
+        "primevue": "^3.40.1",
+        "slugify": "^1.6.6",
+        "sweetalert2": "^11.10.0",
+        "tinymce": "^6.4.2",
+        "vue-ckeditor2": "^2.1.5",
+        "vue-filepond": "^7.0.4",
+        "vue-router": "^4.2.4",
+        "xlsx": "^0.18.5"
+    }
+}
